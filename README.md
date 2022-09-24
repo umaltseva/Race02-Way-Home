@@ -16,3 +16,4 @@ Create a program that finds the shortest path in a maze between the entry and ex
 
 ### OUR OUTPUT
 
+![Screenshot from 2022-09-24 14-13-59](https://user-images.githubusercontent.com/92917845/192094891-5d5452cc-31d8-4fc9-a2dd-1d42f03679f6.png)
